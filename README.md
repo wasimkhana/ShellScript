@@ -1,5 +1,5 @@
 # ShellScript
-In this repo I am adding the basic code file to learn ShellScript
+In this repo I am adding the basic coding files for beginners to learn ShellScript.
 
 #Using Terminal:
 $ touch shellScript        # to create separate directory
